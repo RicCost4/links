@@ -5,7 +5,7 @@
 
  ⚠ **Descrição:**
 
-**Projeto vai ser desativado e vai ser construido em React**
+**Projeto vai ser desativado e vai ser construido em React, como consolidação dos estudos que estou fazendo**
 _Assim que for sendo construido, vou subir e posta o codigo aqui :)_
 
 ---
